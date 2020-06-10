@@ -1,6 +1,7 @@
 .DS_Store
 node_modules/
 dist/
+hadinh/
 npm-debug.log
 yarn-error.log
 
